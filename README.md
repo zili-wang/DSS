@@ -45,7 +45,7 @@ For example, if you installed Anaconda in C:\Users, the new path for the environ
 
 After setting up Graphviz as the environment variable, you may need to restart Python to ensure the changes take effect.
 
-## Data Preparation (Software Developers)
+## Data Preparation (Only for Software Developers)
 
 Ensure your input data is an .xlsx file named 'DTC.xlsx', located in the same directory as Main.py.
 
