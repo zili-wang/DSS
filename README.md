@@ -61,7 +61,7 @@ Ensure your input data is an .xlsx file named 'DTC.xlsx', located in the same di
 - Running the software will overwrite the original output files. To preserve existing outputs, rename them or save them in a different directory.
 - Ensure that the 'RESULT.Report.xlsx' output file is not open when running the software.
 
-# DSS Features
+# DSS UI
 
 1. Select a target road for analysis.
 2. Select a specific date to evaluate road performance.
