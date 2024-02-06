@@ -62,11 +62,5 @@ Ensure your input data is an .xlsx file named 'DTC.xlsx', located in the same di
 - Ensure that the 'RESULT.Report.xlsx' output file is not open when running the software.
 
 # DSS UI
-
-1. Select a target road for analysis.
-2. Select a specific date to evaluate road performance.
-3. Choose a performance indicator to assess whether the road meets maintenance requirements.
-4. Select a performance model to predict road maintenance needs.
-5. Run the software - it only takes a few seconds to yield results.
-6. User settings will be displayed.
-7. Partial results will be displayed. For complete results, refer to 'RESULT_Decision Tree.png' and 'RESULT_Report.xlsx'.
+![Alt text](https://github.com/zili-wang/DSS/blob/main/ui_1.PNG?raw=true "Optional title")
+![Alt text](https://github.com/zili-wang/DSS/blob/main/ui_2.PNG?raw=true "Optional title")
