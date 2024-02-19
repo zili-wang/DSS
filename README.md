@@ -51,7 +51,7 @@ Ensure your input data is an .xlsx file named 'DTC.xlsx', located in the same di
 
 ## Running the Software
 
-1. Open IDLE (python 3.6 64-bit) or the version that corresponds to your installed Python.
+1. Open IDLE/Pycharm/Visual Studio Code (python 3.6 64-bit) or the version that corresponds to your installed Python.
 2. Click File > Open...
 3. Navigate to the 'SimulationTool' directory and select 'Main.py' to open.
 4. Run 'Main.py'.
